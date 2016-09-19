@@ -592,3 +592,11 @@ span.diff-add {
 .topbar-dialog .unread-item {
     color: #444;
 }
+
+#header {
+    background: #b13706;
+    color: #000;
+}
+#header a {
+    color: #e1e1e1;
+}
